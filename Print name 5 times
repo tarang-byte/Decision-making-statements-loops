@@ -1,0 +1,21 @@
+//tarang srivastava
+//163
+//B3
+#include<iostream>
+using namespace std;
+
+int main(){
+    for(int i=0;i<=5;i++){
+        cout<<"SIT"<<endl;
+        
+    }
+    return 0;
+}
+
+OUTPUT:
+My Name is SIT
+My Name is SIT
+My Name is SIT
+My Name is SIT
+My Name is SIT
+My Name is SIT
